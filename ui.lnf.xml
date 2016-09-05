@@ -3,5 +3,7 @@
     <option name="ANIMATE_WINDOWS" value="false" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="HIDE_TABS_IF_NEED" value="false" />
+    <option name="EDITOR_TAB_PLACEMENT" value="4" />
   </component>
 </application>
