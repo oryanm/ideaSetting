@@ -1,7 +1,10 @@
 <application>
   <component name="DiffSettings">
     <option name="PLACES_MAP">
-      <entry key="Default">
+      <entry key="ChangesView">
+        <PlaceSettings />
+      </entry>
+      <entry key="TestsFiledAssertions">
         <PlaceSettings />
       </entry>
     </option>
@@ -21,11 +24,7 @@
       <entry key="Default">
         <PlaceSettings />
       </entry>
-    </option>
-  </component>
-    <component name="DiffSettings">
-    <option name="PLACES_MAP">
-      <entry key="ChangesView">
+      <entry key="TestsFiledAssertions">
         <PlaceSettings />
       </entry>
     </option>
